@@ -1,0 +1,12 @@
+{
+  "name": "cbtt-mvp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts":{
+  	"start": "node server.js"
+  }
+}
